@@ -1603,7 +1603,7 @@
         "defaultDose": "1+0+1 (খাওয়ার পর)",
         "defaultDuration": "1 month"
     },
-        {
+    {
         name: "Tab. Vasco 250mg",
         generic: "Vitamin-C (Ascorbic Acid)",
         company: "Opsonin",
