@@ -1603,6 +1603,14 @@
         "defaultDose": "1+0+1 (খাওয়ার পর)",
         "defaultDuration": "1 month"
     },
+        {
+        name: "Tab. Vasco 250mg",
+        generic: "Vitamin-C (Ascorbic Acid)",
+        company: "Opsonin",
+        category: "Vitamin & Supplement",
+        defaultDose: "1+0+1 (চুষে খাবেন)",
+        defaultDuration: "15 days"
+    },
     {
         "name": "Tab. Finix 20mg",
         "generic": "Rabeprazole",
