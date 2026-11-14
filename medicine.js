@@ -1128,7 +1128,7 @@
         "generic": "Esomeprazole",
         "company": "Healthcare",
         "category": "Anti-Ulcerant / PPI",
-        "defaultDose": "1+0+0 (খাওয়ার ৩০ মি. আগে)",
+        "defaultDose": "1+0+1 (খাওয়ার ৩০ মি. আগে)",
         "defaultDuration": "14 days"
     },
     {
@@ -1136,7 +1136,7 @@
         "generic": "Esomeprazole",
         "company": "Healthcare",
         "category": "Anti-Ulcerant / PPI",
-        "defaultDose": "1+0+0 (খাওয়ার ৩০ মি. আগে)",
+        "defaultDose": "1+0+1 (খাওয়ার ৩০ মি. আগে)",
         "defaultDuration": "14 days"
     },
     {
@@ -1144,7 +1144,7 @@
         "generic": "Esomeprazole",
         "company": "Healthcare",
         "category": "Anti-Ulcerant / PPI",
-        "defaultDose": "1+0+0 (খাওয়ার ৩০ মি. আগে)",
+        "defaultDose": "1+0+1 (খাওয়ার ৩০ মি. আগে)",
         "defaultDuration": "14 days"
     },
     {
